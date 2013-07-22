@@ -42,8 +42,8 @@ Write to a file (IMPORTANT: use *binary* encode, thanks to @Acek)
 Testing
 -------
 
-	npm install -g jasmine-node
-	jasmine-node test
+	npm install -d
+	npm test
 
 Manual
 ------
